@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋👋👋
+### 🔭 I’m currently working on Badiworks as a Jr.FrontEnd Dev.
+### 🌱 I’m currently learning Vue.Js 
+### 📫 How to reach me: alptugildiz@gmail.com
 
 <!--
 **alptugildiz/alptugildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
