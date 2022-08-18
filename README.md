@@ -1,5 +1,5 @@
 ### Hi there 👋👋👋
-### 🔭 I’m currently working on Badiworks as a Jr.FrontEnd Dev.
+### 🔭 I’m currently working on Badiworks as Software Engineer.
 ### 🌱 I’m currently learning Vue.Js 
 ### 📫 How to reach me: alptugildiz@gmail.com
 
