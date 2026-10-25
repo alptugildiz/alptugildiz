@@ -1,6 +1,5 @@
 ### Hi there 👋👋👋
 ### 🔭 I’m currently working on Odeon Technology as Frontend Developer.
-### 🌱 I’m currently learning React.Js 
 ### 📫 How to reach me: alptugildiz@gmail.com
 
 <br>
